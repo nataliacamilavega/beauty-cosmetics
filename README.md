@@ -1,5 +1,5 @@
 ## Beauty Cosmetics E-commerce
-- **Last update:** 2021-10-17
+- **Last update:** 17 de febrero de 2023
 - **Link del proyecto:** [Portafolio Natalia Vega](https://beautycosmetics.vercel.app/)
 
 ### Descripcion
