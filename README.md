@@ -1,6 +1,6 @@
 ## Beauty Cosmetics E-commerce
 - **Last update:** 17 de febrero de 2023
-- **Link del proyecto:** [Portafolio Natalia Vega](https://beautycosmetics.vercel.app/)
+- **Link del proyecto:** [Beauty Cosmetics](https://beautycosmetics.vercel.app/)
 
 ### Descripcion
 En este proyecto decidí realizar un e-commerce sobre productos de cosmética desarrollado con la libreria de React JS. En cuanto al estilado de la página lo realicé completamente con CSS puro. 
